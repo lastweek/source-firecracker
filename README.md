@@ -1,7 +1,9 @@
 # Notes on Firecracker
 
 Interesting stuff.
-Pay attention to https://github.com/rust-vmm/community as well.
+Couple new VMMs these years:
 
-My current impression is that Firecracker is a lightweight QEMU?
-It's a VMM after all.
+- https://github.com/rust-vmm/community as well.
+- https://github.com/cloud-hypervisor/cloud-hypervisor
+
+And a good blog https://www.redhat.com/en/blog/all-you-need-know-about-kvm-userspace
